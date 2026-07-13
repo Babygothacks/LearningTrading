@@ -27,7 +27,8 @@ from trading import (
 )
 
 PROJECT_DIR = Path(__file__).resolve().parent
-DEFAULT_CSV = PROJECT_DIR / "NSE_NIFTY 50_Historical_PR_01012026to12072026.csv"
+INPUT_DIR = PROJECT_DIR / "input"
+DEFAULT_CSV = INPUT_DIR / "NSE_NIFTY 50_Historical_PR_01012026to12072026.csv"
 
 
 def main(csv_path: str | Path = DEFAULT_CSV) -> None:
