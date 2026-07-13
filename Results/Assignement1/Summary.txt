@@ -1,0 +1,8 @@
+Outcome: the strategy lost ~6% and got stuck in a single losing trade.
+
+- Trades completed: 0 — never hit the 5% profit target, so never sold.
+- Bought once on 2026-02-03 at 25,727.55, still holding at the end (24,206.90).
+- Loss: -5.91% → ₹100,000 shrank to ₹94,089 (unrealized).
+- Worst dip along the way: -13.96% (max drawdown).
+
+Why: bought near a top, price fell, no stop loss to cut it, and it never recovered +5% to trigger the exit — so it stayed frozen in one bad trade for 5 months. One trade = luck, not proof the strategy is good or bad.
