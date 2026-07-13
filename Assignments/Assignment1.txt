@@ -1,0 +1,6 @@
+if the current candle's close is above highest of the last 7 candles, buy 
+if we have profit of 5%, sell - no stop loss
+if you already have a position, do not buy more even if the condition meets
+
+Generate a report for
+total trades, equity curve, if there is any open trade

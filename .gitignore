@@ -1,0 +1,12 @@
+pyproject.toml
+uv.lock
+tests/__pycache__/__init__.cpython-314.pyc
+tests/__pycache__/test_backtester.cpython-314-pytest-9.1.1.pyc
+trading/__pycache__/__init__.cpython-314.pyc
+trading/__pycache__/config.cpython-314.pyc
+trading/__pycache__/data.cpython-314.pyc
+trading/__pycache__/engine.cpython-314.pyc
+trading/__pycache__/models.cpython-314.pyc
+trading/__pycache__/reporting.cpython-314.pyc
+trading/__pycache__/sizing.cpython-314.pyc
+trading/__pycache__/strategies.cpython-314.pyc
